@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @baldiq
 - 👋 My name is Piotr
-- 👀 I’m a software tester 
-- 🌱 I love to automate tests using Cypress
-- 💞️ I’m looking to collaborate on some projects connected with automotive branch
+- 👀 Currently working as a test automation engineer
+- 🌱 I am passionate about software testing 
+- 💞️ I’m looking to collaborate on some projects from the automotive sector
 - 📫 How to reach me piotr.badelek@gmail.com
 
 <!---
