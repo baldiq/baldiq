@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @baldiq
-- 👋 My name is Piotr
+- 👋 My name is Peter
 - 👀 Currently working as a test automation engineer
 - 🌱 I am passionate about software testing 
 - 💞️ I’m looking to collaborate on some projects from the automotive sector
